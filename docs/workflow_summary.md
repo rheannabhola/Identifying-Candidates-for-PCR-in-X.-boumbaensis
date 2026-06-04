@@ -113,7 +113,7 @@ LOC genes may still be biologically relevant, but they were excluded from the cl
 
 For each non-LOC gene in the regions of interest, all detected high-quality CDS-like intervals were counted.
 
-The key question was:
+The question was:
 
     Do all detected CDS-like intervals for this gene have 100% zero male WGS coverage?
 
@@ -123,9 +123,7 @@ Genes where the answer was yes were retained in the clean gene-level candidate t
 
 The final table contains genes where all detected high-quality X. laevis CDS-like intervals in the region of interest had 100% zero coverage in male X. boumbaensis WGS.
 
-These are strong PCR marker candidates, but they are not confirmed W-linked genes or sex-determining genes.
-
-Because the annotation is based on X. laevis CDS BLAST hits, these regions should be described as CDS-like or exon-like intervals rather than confirmed X. boumbaensis exons.
+These are PCR marker candidates, but they are not confirmed W-linked genes or sex-determining genes.
 
 ## Recommended next steps
 
