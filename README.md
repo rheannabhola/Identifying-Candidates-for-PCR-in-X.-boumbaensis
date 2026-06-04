@@ -6,7 +6,6 @@ This repository contains scripts used to identify candidate PCR marker genes for
 
 The goal of this workflow is to identify coding-like regions in the female X. boumbaensis reference genome that show 100% zero coverage in male X. boumbaensis whole-genome sequencing data.
 
-These regions may represent female-specific, W-linked, or highly sex-diverged candidate marker loci.
 
 ## Biological rationale
 
