@@ -1,0 +1,44 @@
+# Large genomics input/intermediate files
+*.bam
+*.bai
+*.sam
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.fa
+*.fasta
+*.fai
+
+# BLAST database files
+*.nhr
+*.nin
+*.nsq
+*.ndb
+*.not
+*.ntf
+*.nto
+
+# Large analysis outputs
+*.bedgraph
+*.vcf
+*.vcf.gz
+*.g.vcf.gz
+*.tbi
+*.tsv
+*.out
+*.err
+
+# Keep small curated outputs in example_outputs
+!example_outputs/*.csv
+!example_outputs/*.md
+!example_outputs/*.txt
+
+# R/session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# System files
+.DS_Store
+Thumbs.db
